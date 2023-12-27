@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Lohan Almeida 👋
 
+![Lohan Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
@@ -13,4 +15,4 @@
 <img aling="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <div style="display: inline_block"><br/>
 <img aling="center" alt="sqllite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-
+ Louco por tecnologia e apaixonado por programação!
