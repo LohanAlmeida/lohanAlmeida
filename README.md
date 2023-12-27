@@ -1,4 +1,6 @@
-### Olá! Eu sou o Lohan Almeida 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0014ED&height=110&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0014ED&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Programador+FullStack+Jr+Java+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
 
 <div>
