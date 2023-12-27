@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lohan Almeida 👋
 
-![Lohan Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=tokyonight)
+![Lohan Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia
 
