@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FFsize=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Programador+FullStack+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
-
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohanalmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=E82EA7&icon_color=B0008C&text_color=19FFBE&bg_color=0d1117" alt="Lohan Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanAlmeida&layout=compact&hide_border=true&title_color=19FFBE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
 
 ## Tecnologias que uso no meu dia
 
 
 <div style="display: inline_block"><br>
+
+  
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img aling="center" alt="js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,3 +23,4 @@
 <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5100&height=120&section=footer"/>
