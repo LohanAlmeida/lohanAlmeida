@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Lohan Almeida 👋
 
+![Lohan GitHub status](https//:github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=radical)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
