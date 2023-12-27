@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lohan Almeida 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LohranAlmeida&hide_progress=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LohranAlmeida&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
 
