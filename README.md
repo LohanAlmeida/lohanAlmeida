@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Lohan Almeida 👋
 
-![LohanAlmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=radical)
+
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohanalmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 ## Tecnologias que uso no meu dia
@@ -14,9 +18,4 @@
 <img aling="center" alt="typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img aling="center" alt="sqllite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-</div>
-
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lohanalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohanalmeida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
