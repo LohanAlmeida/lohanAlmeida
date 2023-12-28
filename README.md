@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3C7AD6&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Programador+FullStack+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=00A600&icon_color=CC641F&text_color=CFA913&bg_color=0d1117" alt="Lohan Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanAlmeida&layout=compact&hide_border=true&title_color=00A600&text_color=c9d1d9&bg_color=0d1117" />
