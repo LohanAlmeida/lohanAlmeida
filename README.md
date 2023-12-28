@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5100&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A00FFsize=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Programador+FullStack+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56E366size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Programador+FullStack+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=E82EA7&icon_color=B0008C&text_color=19FFBE&bg_color=0d1117" alt="Lohan Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanAlmeida&layout=compact&hide_border=true&title_color=19FFBE&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=20A830&icon_color=CC641F&text_color=CFA913&bg_color=0d1117" alt="Lohan Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanAlmeida&layout=compact&hide_border=true&title_color=20A830&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Tecnologias que uso no meu dia
