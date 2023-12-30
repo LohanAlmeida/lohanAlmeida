@@ -47,4 +47,7 @@
 </div>
 
 <!-- ---------------------------------------------------------------- GRÁFICO ---------------------------------------------------------------- -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lohanalmeida&bg_color=0d1117&color=ffffff&line=FF00FF&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lohanalmeida&bg_color=000000&color=007036&line=66ff00&point=00d150&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ---------------------------------------------------------------- Borda ---------------------------------------------------------------- -->
+<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=00DB33&height=120&section=footer"/>
