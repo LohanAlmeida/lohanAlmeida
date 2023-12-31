@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00DB33&height=110&section=header"/>
 
 <!-- ---------------------------------------------------------------- APRESENTAÇÃO ---------------------------------------------------------------- -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45D166&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Programador+FullStack+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45D166&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Lohan+Almeida!;Desenvolvedor+FullStack+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
