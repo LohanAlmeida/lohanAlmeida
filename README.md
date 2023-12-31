@@ -12,7 +12,7 @@
 </div>
 
 <!-- ---------------------------------------------------------------- TECNOLOGIAS ---------------------------------------------------------------- -->
-## Tecnologias que uso no meu dia
+## Tecnologias
 
 
 <div style="display: inline_block"><br>
