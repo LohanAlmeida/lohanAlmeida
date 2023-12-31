@@ -32,8 +32,6 @@
 <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img aling="center" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 <img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img aling="center" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-<img aling="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
 
 <!-- ---------------------------------------------------------------- VISITAS ---------------------------------------------------------------- -->
 <p align="center">  
