@@ -45,7 +45,7 @@
 
   <!-- ---------------------------------------------------------------- TROFÉUS ---------------------------------------------------------------- -->
 <p align="center">
-    <a href="https://github.com/getintorj/getintorj">
+    <a href="https://github.com/lohanalmeida/lohanalmeida">
         <img src="https://github-profile-trophy.vercel.app/?username=lohanalmeida&column=-1&theme=radical&layout=compact"width="95%"/> 
 </p>
  
