@@ -36,7 +36,7 @@
 <p align="center">  
 <p align="center"> 
  VISITAS<br> <br>
-  <img src="https://github.com/LohanAlmeida"/>
+  <img src="[https://github.com/LohanAlmeida](https://avatars.githubusercontent.com/u/150105725?s=400&u=18a512e2a595f553324473f9fd9a6663b2b3186e&v=4)"/>
   </p>
   
 <!-- ---------------------------------------------------------------- VISITAS POR PAÍSES ---------------------------------------------------------------- -->
