@@ -36,7 +36,7 @@
 <p align="center">  
 <p align="center"> 
  VISITAS<br> <br>
-  <img src="https://github.com/lohanalmeida"/>
+  <img src=""/>
   </p>
   
 <!-- ---------------------------------------------------------------- VISITAS POR PAÍSES ---------------------------------------------------------------- -->
