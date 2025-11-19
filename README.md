@@ -36,7 +36,7 @@
 <p align="center">  
 <p align="center"> 
  VISITAS<br> <br>
-  <img src="[https://profile-counter.glitch.me/lohanalmeida/count.svg](https://github.com/LohanAlmeida)"/>
+  <img src="https://github.com/LohanAlmeida"/>
   </p>
   
 <!-- ---------------------------------------------------------------- VISITAS POR PAÍSES ---------------------------------------------------------------- -->
