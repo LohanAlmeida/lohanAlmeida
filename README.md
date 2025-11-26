@@ -4,7 +4,6 @@
 <!-- ---------------------------------------------------------------- APRESENTAÇÃO ---------------------------------------------------------------- -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45D166&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Almeida+Dev!;Desenvolvedor+Front+End+Jr+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=9B5AAD&icon_color=CC641F&text_color=E8DC54&bg_color=0d1117" alt="Lohan Almeida github stats" /> 
