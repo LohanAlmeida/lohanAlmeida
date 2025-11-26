@@ -7,6 +7,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 <div align="center">  
+  <a href="https://github.com/LohanAlmeida"
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LohanAlmeida&show_icons=true&count_private=true&hide_border=true&title_color=9B5AAD&icon_color=CC641F&text_color=E8DC54&bg_color=0d1117" alt="Lohan Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohanAlmeida&layout=compact&hide_border=true&title_color=9B5AAD&text_color=c9d1d9&bg_color=0d1117" />
 </div>
