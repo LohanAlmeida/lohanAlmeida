@@ -10,7 +10,7 @@
   Apaixonado por criar interfaces modernas, eficientes e acessíveis — sempre buscando aprender novas tecnologias e entregar experiências digitais de qualidade.
 </p>
 
----
+<!-- ---------------------------------------------------------------- TECNOLOGIAS ---------------------------------------------------------------- -->
 
 ## 🚀 Tecnologias que utilizo
 
@@ -25,14 +25,8 @@
 
 </div>
 
----
+<!-- ---------------------------------------------------------------- PROJETOS ---------------------------------------------------------------- -->
 
-## 📂 Portfólio
-
-🔗 **Acesse meu portfólio completo:**  
-👉 https://portifólio-lohan-front-end-jr.vercel.app
-
----
 
 ## 🧩 Projetos em Destaque
 
@@ -40,25 +34,32 @@
 Plataforma de apresentação de cursos, com layout organizado e foco em experiência do usuário.  
 ➡️ Código: https://github.com/LohanAlmeida/SkillBoost
 
----
+-------------------------------------------
 
 ### 🔹 Formulário de Login Animado  
 Interface moderna utilizando somente CSS para animações suaves e responsivas.  
 ➡️ Código: https://github.com/LohanAlmeida/Formulario-de-login-animado---CSS
 
----
+-------------------------------------------
 
 ### 🔹 FilmesFlix  
 Catálogo inspirado em serviços de streaming — estrutura simples e visual intuitivo.  
 ➡️ Código: https://github.com/LohanAlmeida/FilmesFlix
 
----
+--------------------------------------------
 
 ### 🔹 Projeto em Andamento (Óticas)  
 Aplicação em desenvolvimento constante, utilizada para testar componentes e novas práticas.  
 ➡️ Código: https://github.com/LohanAlmeida/Projeto-em-andamento-
 
----
+--------------------------------------------
+
+## 📂 Portfólio
+
+🔗 **Acesse meu portfólio completo:**  
+👉 https://portifólio-lohan-front-end-jr.vercel.app
+
+<!-- ---------------------------------------------------------------- CONTATOS ---------------------------------------------------------------- -->
 
 ## 📫 Como falar comigo?
 
@@ -66,7 +67,7 @@ Aplicação em desenvolvimento constante, utilizada para testar componentes e no
 💼 **LinkedIn:** https://www.linkedin.com/in/lohan-almeida-dev/  
 🐙 **GitHub:** https://github.com/LohanAlmeida  
 
----
+
 <!-- ---------------------------------------------------------------- TROFÉUS ---------------------------------------------------------------- -->
 <p align="center">
     <a href="https://github.com/lohanalmeida/lohanalmeida">
