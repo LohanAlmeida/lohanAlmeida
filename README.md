@@ -30,7 +30,7 @@
 ## 📂 Portfólio
 
 🔗 **Acesse meu portfólio completo:**  
-👉 *[SEU LINK DA VERCEL / NETLIFY AQUI]*
+👉 https://portifólio-lohan-front-end-jr.vercel.app
 
 ---
 
