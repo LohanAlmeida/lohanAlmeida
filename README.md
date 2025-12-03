@@ -66,6 +66,7 @@ Aplicação em desenvolvimento constante, utilizada para testar componentes e no
 📧 **Email:** almeida.lohandev@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/lohan-almeida-dev/  
 🐙 **GitHub:** https://github.com/LohanAlmeida  
+💼 **CodePen:** https://codepen.io/Almeida-dev
 
 
 <!-- ---------------------------------------------------------------- TROFÉUS ---------------------------------------------------------------- -->
