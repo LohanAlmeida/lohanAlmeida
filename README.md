@@ -32,7 +32,9 @@
 
 ### 🔹Zoológico Vida Selvagem
 Projeto site para zoológico, interativo e totalmente responsivo, com facíl utilização para o usuário.
+<br>
 ➡️ Site: https://zoologioco-vida-selvagem.vercel.app/
+<br>
 ➡️ Código: https://github.com/LohanAlmeida/Zool-gio---Vida-Selvagem
 
 ### 🔹 SkillBoost  
@@ -68,9 +70,12 @@ Aplicação em desenvolvimento constante, utilizada para testar componentes e no
 
 ## 📫 Como falar comigo?
 
-📧 **Email:** almeida.lohandev@gmail.com    
-🐙 **GitHub:** https://github.com/LohanAlmeida  
+📧 **Email:** almeida.lohandev@gmail.com
+<br>
+🐙 **GitHub:** https://github.com/LohanAlmeida
+<br>
 💼 **CodePen:** https://codepen.io/Almeida-dev
+<br>
 💼 **LinkedIn:** https://www.linkedin.com/in/lohan-almeida-dev/
 
 
