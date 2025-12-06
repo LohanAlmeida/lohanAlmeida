@@ -30,6 +30,11 @@
 
 ## 🧩 Projetos em Destaque
 
+### 🔹Zoológico Vida Selvagem
+Projeto site para zoológico, interativo e totalmente responsivo, com facíl utilização para o usuário.
+➡️ Site: https://zoologioco-vida-selvagem.vercel.app/
+➡️ Código: https://github.com/LohanAlmeida/Zool-gio---Vida-Selvagem
+
 ### 🔹 SkillBoost  
 Plataforma de apresentação de cursos, com layout organizado e foco em experiência do usuário.  
 ➡️ Código: https://github.com/LohanAlmeida/SkillBoost
