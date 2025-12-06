@@ -33,7 +33,7 @@
 ### 🔹Zoológico Vida Selvagem
 Projeto site para zoológico, interativo e totalmente responsivo, com facíl utilização para o usuário.
 <br>
-➡️ Site: https://zoologioco-vida-selvagem.vercel.app/
+➡️ Site: https://zoologico-vida-selvagem.vercel.app/
 <br>
 ➡️ Código: https://github.com/LohanAlmeida/Zool-gio---Vida-Selvagem
 
