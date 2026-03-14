@@ -68,10 +68,6 @@ Aplicação em desenvolvimento constante, utilizada para testar componentes e no
 
 --------------------------------------------
 
-## 📂 Portfólio
-
-🔗 **Acesse meu portfólio completo:**  
-👉 https://portifoliofrontend-almeidadev.vercel.app/#
 
 <!-- ---------------------------------------------------------------- CONTATOS ---------------------------------------------------------------- -->
 
