@@ -44,7 +44,6 @@ Projeto site para zoológico, interativo e totalmente responsivo, com facíl uti
 
 ### 🔹 SkillBoost  
 Plataforma de apresentação de cursos, com layout organizado e foco em experiência do usuário.  
-➡️ Site: https://skillboost.vercel.app
 <br>
 ➡️ Código: https://github.com/LohanAlmeida/SkillBoost
 
